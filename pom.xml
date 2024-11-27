@@ -144,6 +144,7 @@
     <module>grpc-google-cloud-pubsub-v1</module>
     <module>proto-google-cloud-pubsub-v1</module>
     <module>google-cloud-pubsub-bom</module>
+    <module>google-cloud-pubsub-schemas-plugin</module>
   </modules>
 
   <reporting>
